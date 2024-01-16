@@ -1,0 +1,10 @@
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore macOS debug symbol files
+*.dSYM/
