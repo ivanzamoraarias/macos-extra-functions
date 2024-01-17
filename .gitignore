@@ -8,3 +8,6 @@
 
 # Ignore macOS debug symbol files
 *.dSYM/
+
+
+.DS_Store
